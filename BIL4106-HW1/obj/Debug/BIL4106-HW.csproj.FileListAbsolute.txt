@@ -1,0 +1,12 @@
+C:\Users\giray\Desktop\Bilgisayar Bilimleri\veri güvenliği\BIL4106-HW1\BIL4106-HW1\bin\Debug\BIL4106-HW.exe.config
+C:\Users\giray\Desktop\Bilgisayar Bilimleri\veri güvenliği\BIL4106-HW1\BIL4106-HW1\bin\Debug\BIL4106-HW.exe
+C:\Users\giray\Desktop\Bilgisayar Bilimleri\veri güvenliği\BIL4106-HW1\BIL4106-HW1\bin\Debug\BIL4106-HW.pdb
+C:\Users\giray\Desktop\Bilgisayar Bilimleri\veri güvenliği\BIL4106-HW1\BIL4106-HW1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\giray\Desktop\Bilgisayar Bilimleri\veri güvenliği\BIL4106-HW1\BIL4106-HW1\obj\Debug\BIL4106-HW.csprojAssemblyReference.cache
+C:\Users\giray\Desktop\Bilgisayar Bilimleri\veri güvenliği\BIL4106-HW1\BIL4106-HW1\obj\Debug\BIL4106_HW.Form1.resources
+C:\Users\giray\Desktop\Bilgisayar Bilimleri\veri güvenliği\BIL4106-HW1\BIL4106-HW1\obj\Debug\BIL4106_HW.Properties.Resources.resources
+C:\Users\giray\Desktop\Bilgisayar Bilimleri\veri güvenliği\BIL4106-HW1\BIL4106-HW1\obj\Debug\BIL4106-HW.csproj.GenerateResource.cache
+C:\Users\giray\Desktop\Bilgisayar Bilimleri\veri güvenliği\BIL4106-HW1\BIL4106-HW1\obj\Debug\BIL4106-HW.csproj.CoreCompileInputs.cache
+C:\Users\giray\Desktop\Bilgisayar Bilimleri\veri güvenliği\BIL4106-HW1\BIL4106-HW1\obj\Debug\BIL4106-HW.csproj.CopyComplete
+C:\Users\giray\Desktop\Bilgisayar Bilimleri\veri güvenliği\BIL4106-HW1\BIL4106-HW1\obj\Debug\BIL4106-HW.exe
+C:\Users\giray\Desktop\Bilgisayar Bilimleri\veri güvenliği\BIL4106-HW1\BIL4106-HW1\obj\Debug\BIL4106-HW.pdb
